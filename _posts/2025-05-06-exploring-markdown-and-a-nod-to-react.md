@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Exploring Markdown and a Nod to React"
-date: 2025-05-07
+date: 2025-05-06
 categories: [markdown, tech, react]
 ---
 
