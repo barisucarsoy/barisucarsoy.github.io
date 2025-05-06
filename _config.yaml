@@ -1,0 +1,12 @@
+title: My Simple Blog
+author: Your Name
+description: "A simple blog with minimal styling."
+theme: minima # GitHub Pages supports a few themes by default, minima is a good base. We'll override most of its styles.
+
+# For the top menu
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about.html
+  # Add more menu items here
