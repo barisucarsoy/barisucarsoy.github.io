@@ -57,3 +57,43 @@ a:hover {
 ul, ol {
     padding-left: 20px;
 }
+
+/* Tag Styles */
+.post-tags {
+  margin-left: 10px; /* Adds a little space after the date */
+  font-size: 0.85em; /* Slightly smaller font for tags */
+}
+
+.tag {
+  display: inline-block; /* Allows padding and keeps them in line */
+  padding: 2px 8px;    /* Vertical and horizontal padding */
+  margin-right: 5px;   /* Space between tags */
+  border-radius: 4px;  /* Rounded corners */
+  color: white;        /* Default text color for tags (assuming dark backgrounds) */
+  background-color: #777; /* Default background color for tags */
+  text-transform: capitalize; /* Capitalize the first letter of each tag */
+}
+
+/* Specific colors for your existing categories */
+.tag-markdown {
+  background-color: #007bff; /* Blue */
+  color: white;
+}
+
+.tag-tech {
+  background-color: #28a745; /* Green */
+  color: white;
+}
+
+.tag-react {
+  background-color: #61DAFB; /* React's light blue */
+  color: #20232A; /* Darker text for better contrast on light blue */
+}
+
+/* You can add more specific tag colors here */
+/* Example:
+.tag-news {
+  background-color: #ffc107; 
+  color: #333;
+}
+*/
