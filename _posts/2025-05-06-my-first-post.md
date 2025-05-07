@@ -2,6 +2,7 @@
 layout: default
 title: "My First Blog Post"
 date: 2025-05-06
+categories: [first_post]
 ---
 
 ## Hello World!
