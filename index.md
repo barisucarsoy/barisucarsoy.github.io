@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Simple Blog
+# Welcome to My Blog
 
-This is the homepage. You can list your recent posts here or write a short introduction.
+This is the homepage. Below, you can the stuff I wrote.
 
 ## Recent Posts
 <ul>
