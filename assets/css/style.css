@@ -97,3 +97,23 @@ ul, ol {
   color: #333;
 }
 */
+
+#rocket-animation {
+  position: fixed; /* Or absolute, depending on your layout */
+  top: 50%;
+  left: 50%;
+  width: 100px; /* Adjust as needed */
+  height: 100px; /* Adjust as needed */
+  transform: translate(-50%, -50%); /* Center it */
+  z-index: -1; /* Place it behind other content */
+}
+
+/* Example for a simple 3D object if you're not using an image/SVG */
+#rocket-engine {
+  width: 50px;
+  height: 80px;
+  background-color: silver;
+  border-radius: 50% 50% 10px 10px / 80% 80% 20% 20%;
+  margin: auto;
+  /* Add more styles for a 3D look if not using a complex model */
+}
